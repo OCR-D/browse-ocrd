@@ -18,7 +18,7 @@ jobs:
       name: Docker meta
       id: meta
       with:
-        images: hnesk/ocrd_browser
+        images: ocrd/ocrd_browser
         tags: | 
           type=semver,pattern={{version}}
           type=ref,event=branch
