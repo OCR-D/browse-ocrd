@@ -1,6 +1,8 @@
 # Change Log
 
-## [Unreleased](../../compare/v0.5.5...master)
+## [Unreleased](../../compare/v0.6.0...master)
+
+## [0.6.0](../../compare/v0.5.5...0.6.0) - 2026-11-06
 
 Features:
  * :fire: support remote images in METS #52:
